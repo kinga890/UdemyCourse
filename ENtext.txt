@@ -1,0 +1,3 @@
+Hi, my name is Kinga and this is my first translator in Python. 
+I like to study German and it is my third language. 
+Sometimes i mix English with German. 

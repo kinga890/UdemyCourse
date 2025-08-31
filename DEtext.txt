@@ -1,0 +1,1 @@
+['Hallo, mein Name ist Kinga und das ist mein erster Übersetzer in Python. \ n ',' Ich studiere gerne Deutsch und es ist meine dritte Sprache. \ n ', manchmal mische ich Englisch mit Deutsch. ']
